@@ -94,7 +94,7 @@ public class CollegeFinder {
 
   private double[] getUserLocation(Scanner scanner) {
     System.out.println(
-        "Please provide you geo location\n" +
+        "Please provide your geo location\n" +
             "You can try https://www.gps-coordinates.net/ or any other " +
             "GPS locator service, something like 40.5978128,-74.3832758");
     String[] coordinates = scanner.nextLine().split(",");
@@ -102,7 +102,7 @@ public class CollegeFinder {
   }
 
   public static void main(String[] args) {
-    System.out.println("Welcome to College Finder");
+    System.out.println("Welcome to College Finder!!!");
     Scanner scanner = new Scanner(System.in);
     CollegeFinder finder = new CollegeFinder();
     User user = finder.getUserInput(scanner);
@@ -135,7 +135,8 @@ public class CollegeFinder {
   private static void printResult(List<College> offeringCollege, Map<Integer, String> majors, int interestedMajor) {
     DecimalFormat df = new DecimalFormat("#,###.##");
     System.out.println("Hello! These are some possible colleges you may be interested in" +
-        " which provide your major: "+interestedMajor+"."+majors.get(interestedMajor)+" from closest to farthest in distance");
+        " which provide your major: " + interestedMajor + "." + majors.get(interestedMajor) +
+        " from closest to farthest in distance");
     //College.forEach(element -> System.out.println(element));
     for (College college : offeringCollege) {
       System.out.println(college.name + ", " + college.state + " is located " + df.format(college.distance * 0.62137) + " miles away from you!");
