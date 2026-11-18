@@ -1,0 +1,27 @@
+#University,Major Categories
+Massachusetts Institute of Technology (MIT),42, 39, 41, 40, 45, 47, 52, 49
+Harvard University,31, 20, 21, 4, 30, 1, 49, 55
+Stanford University,42, 1, 40, 39, 49, 55, 21, 4
+California Institute of Technology (Caltech),42, 40, 39, 41, 52, 49, 45, 51
+University of Pennsylvania,1, 4, 55, 42, 20, 30, 32, 39
+ University of California Berkeley (UCB),42, 4, 49, 21, 39, 40, 20, 31
+Cornell University,42, 39, 49, 1, 69, 40, 4, 31
+University of Chicago,4, 21, 20, 31, 52, 27, 49, 62
+Princeton University,4, 21, 52, 31, 40, 39, 49, 62
+Yale University,31, 21, 30, 4, 49, 34, 20, 55
+Johns Hopkins University,55, 49, 42, 39, 40, 45, 21, 27
+Columbia University,32, 4, 21, 31, 1, 55, 42, 34
+ University of California Los Angeles (UCLA),49, 55, 42, 32, 20, 34, 39, 4
+New York University (NYU),1, 34, 32, 4, 20, 30, 55, 42
+University of Michigan-Ann Arbor,42, 39, 1, 55, 4, 31, 20, 40
+Northwestern University,32, 1, 4, 55, 31, 42, 20, 34
+Carnegie Mellon University,42, 1, 34, 39, 40, 52, 4, 47
+Duke University,55, 49, 4, 21, 39, 42, 31, 20
+University of Texas at Austin,42, 1, 32, 39, 4, 40, 20, 34
+University of Illinois at Urbana-Champaign,42, 39, 69, 40, 41, 52, 1, 4
+ University of California San Diego (UCSD),49, 42, 55, 4, 39, 40, 20, 27
+University of Washington,55, 42, 49, 39, 40, 45, 20, 27
+Brown University,31, 27, 49, 42, 34, 20, 21, 4
+Pennsylvania State University,69, 39, 42, 1, 40, 45, 20, 27
+Purdue University,39, 42, 69, 40, 41, 37, 45, 1
+Boston University,55, 1, 32, 4

@@ -1,0 +1,469 @@
+#University,State,Latitude,Longitude
+Princeton University,NJ,40.3497,-74.6601
+Massachusetts Institute of Technology,MA,42.3601,-71.0942
+Harvard University,MA,42.3770,-71.1167
+Stanford University,CA,37.4275,-122.1697
+Yale University,CT,41.3116,-72.9223
+University of Pennsylvania,PA,39.9522,-75.1930
+California Institute of Technology,CA,34.1377,-118.1251
+Duke University,NC,36.0011,-78.9389
+Northwestern University,IL,42.0585,-87.6747
+Columbia University,NY,40.8075,-73.9626
+Dartmouth College2,NH,43.7046,-72.2889
+Johns Hopkins University,MD,39.3299,-76.6205
+University of Chicago,IL,41.7896,-87.6006
+Cornell University,NY,42.4470,-76.4832
+Rice University,TX,29.7172,-95.4017
+University of California Los Angeles,CA,34.0689,-118.4452
+Vanderbilt University,TN,36.1450,-86.8045
+University of Notre Dame,IN,41.6955,-86.2360
+Washington University in St. Louis,MO,38.6487,-90.3075
+University of California Berkeley,CA,37.8719,-122.2585
+Georgetown University,DC,38.9072,-77.0722
+Carnegie Mellon University,PA,40.4442,-79.9427
+University of Michigan Ann Arbor,MI,42.2780,-83.7382
+University of Southern California,CA,34.0224,-118.2851
+University of Virginia,VA,38.0336,-78.5080
+Tufts University,MA,42.4061,-71.1196
+Wake Forest University,NC,36.1645,-80.2673
+University of North Carolina Chapel Hill,NC,35.9048,-79.0469
+New York University,NY,40.7295,-73.9965
+Georgia Institute of Technology,GA,33.7712,-84.3963
+University of California Santa Barbara,CA,34.4140,-119.8460
+University of Florida,FL,29.6436,-82.3549
+University of California Irvine,CA,33.6404,-117.8443
+University of California Davis,CA,38.5385,-121.7617
+Boston College2,MA,42.3353,-71.1668
+University of Texas at Austin,TX,30.2849,-97.7341
+University of Wisconsin Madison,WI,43.0766,-89.4042
+Case Western Reserve University,OH,41.5042,-81.6086
+Northeastern University,MA,42.3400,-71.0890
+University of Illinois Urbana-Champaign,IL,40.0841,-88.2307
+Tulane University,LA,29.9376,-90.1185
+Ohio State University,OH,40.0069,-83.0195
+University of Georgia,GA,33.9578,-83.3734
+Lehigh University,PA,40.6069,-75.3773
+Pepperdine University,CA,34.0903,-118.6808
+University of Maryland College2 Park,MD,38.9897,-76.9451
+Purdue University West Lafayette,IN,40.4237,-86.9209
+University of Washington,WA,47.6550,-122.3088
+George Washington University,DC,38.9009,-77.0467
+University of Miami,FL,25.7169,-80.2748
+Pennsylvania State University University Park,PA,40.8001,-77.8601
+Boston University,MA,42.3505,-71.1054
+Texas A&M University College2 Station,TX,30.6180,-96.3378
+University of Connecticut,CT,41.7635,-72.2490
+Villanova University,PA,40.0385,-75.3429
+Southern Methodist University,TX,32.8354,-96.7828
+Clemson University,SC,34.6834,-82.8373
+University of Pittsburgh,PA,40.4430,-79.9547
+Brandeis University,MA,42.3653,-71.2588
+Santa Clara University,CA,37.3494,-121.9385
+Yeshiva University,NY,40.8465,-73.9189
+Rensselaer Polytechnic Institute,NY,42.7300,-73.6766
+Worcester Polytechnic Institute,MA,42.2741,-71.8062
+American University,DC,38.9351,-77.0852
+Fordham University,NY,40.8622,-73.8863
+Syracuse University,NY,43.0481,-76.1347
+University of Minnesota Twin Cities,MN,44.9740,-93.2327
+Indiana University Bloomington,IN,39.1653,-86.5264
+Iowa State University,IA,42.0264,-93.6465
+Michigan State University,MI,42.7337,-84.4843
+Auburn University,AL,32.6015,-85.4873
+University of Delaware,DE,39.6826,-75.7533
+Baylor University,TX,31.5487,-97.1128
+University of California Riverside,CA,33.9737,-117.3323
+University of San Diego,CA,32.7712,-117.1952
+Colorado School of Mines,CO,39.7529,-105.2210
+Stevens Institute of Technology,NJ,40.7445,-74.0232
+University of Denver,CO,39.6806,-104.9617
+North Carolina State University,NC,35.7877,-78.6811
+University of Arizona,AZ,32.2316,-110.9501
+Marquette University,WI,43.0385,-87.9328
+University of Tennessee Knoxville,TN,35.9550,-83.9298
+St. John's University,NY,40.7107,-73.7915
+Loyola University Chicago,IL,42.0003,-87.6617
+University of Oklahoma,OK,35.2052,-97.4431
+Texas Christian University,TX,32.7099,-97.3604
+University of Alabama,AL,33.2140,-87.5683
+University of South Carolina,SC,33.9934,-81.0262
+Howard University,DC,38.9272,-77.0164
+University of Kansas,KS,38.9526,-95.2408
+Miami University,OH,39.5085,-84.6732
+Virginia Tech,VA,37.2285,-80.4172
+Drexel University,PA,39.9573,-75.1896
+University of New Hampshire,NH,43.1396,-70.9295
+Rutgers University New Brunswick,NJ,40.5009,-74.4503
+Clark University,MA,42.2407,-71.8088
+University of Nebraska Lincoln,NE,40.8174,-96.7027
+Illinois Institute of Technology,IL,41.8350,-87.6272
+Ohio University,OH,39.3243,-82.1013
+Louisiana State University,LA,30.4133,-91.1800
+University of Colorado Boulder,CO,40.0076,-105.2668
+University of Vermont,VT,44.4771,-73.1965
+Gonzaga University,WA,47.6687,-117.3941
+University of Cincinnati,OH,39.1327,-84.5165
+Saint Louis University,MO,38.6270,-90.2346
+University of Arkansas,AR,36.0646,-94.1740
+Duquesne University,PA,40.4326,-79.9961
+New Jersey Institute of Technology,NJ,40.7418,-74.1776
+University of Massachusetts Amherst,MA,42.3893,-72.5220
+Mississippi State University,MS,33.4545,-88.7844
+University of Missouri,MO,39.2882,-94.6088
+Oklahoma State University,OK,36.1260,-97.0763
+University of Kentucky,KY,38.0307,-84.5037
+Seton Hall University,NJ,40.7410,-74.2057
+University of Oregon,OR,44.0461,-123.0726
+University of Texas at Dallas,TX,32.9877,-96.7501
+Loyola Marymount University,CA,33.9666,-118.4187
+San Diego State University,CA,32.7755,-117.0701
+University of Texas at San Antonio,TX,29.4589,-98.6166
+University of Utah,UT,40.7647,-111.8465
+Florida State University,FL,30.4418,-84.2984
+University of New Mexico,NM,35.0845,-106.6196
+Washington State University,WA,46.7328,-117.1691
+DePaul University,IL,41.9236,-87.6558
+University of Maine,ME,44.8643,-68.6766
+Temple University,PA,39.9814,-75.1553
+University of Texas at Arlington,TX,32.7357,-97.1121
+University of Idaho,ID,46.6811,-117.0006
+University of Nevada Reno,NV,39.5417,-119.8163
+University of Wyoming,WY,41.3114,-105.5786
+California State University Long Beach,CA,33.7843,-118.1517
+California State University Fullerton,CA,33.8824,-117.8864
+California State University Northridge,CA,34.2415,-118.5290
+San Jose State University,CA,37.3352,-121.8817
+California State Polytechnic University Pomona,CA,34.0569,-117.8195
+California State University Sacramento,CA,38.5656,-121.4285
+California State University Fresno,CA,36.8189,-119.7431
+California State University Chico,CA,39.7285,-121.8402
+California State University San Bernardino,CA,34.1873,-117.3400
+California State University East Bay,CA,37.6548,-122.1264
+California State University Dominguez Hills,CA,33.8645,-118.2435
+California State University Bakersfield,CA,35.3486,-119.0560
+Sonoma State University,CA,38.3371,-122.6780
+Humboldt State University,CA,40.8655,-124.0772
+California State University Stanislaus,CA,37.5645,-120.9482
+California State University Monterey Bay,CA,36.6541,-121.8000
+California Maritime Academy,CA,38.0775,-122.2858
+Southern Illinois University Carbondale,IL,37.7297,-89.2155
+Northern Illinois University,IL,41.9333,-88.7758
+Western Michigan University,MI,42.2905,-85.6212
+Bowling Green State University,OH,41.3744,-83.6493
+Central Michigan University,MI,43.5855,-84.7709
+Eastern Michigan University,MI,42.2414,-83.6111
+Oakland University,MI,42.6625,-83.2255
+Wayne State University,MI,42.3575,-83.0620
+Ball State University,IN,40.1916,-85.4150
+Indiana State University,IN,39.4674,-87.4131
+Purdue University Northwest,IN,41.4883,-87.5029
+Purdue University Fort Wayne,IN,41.1517,-85.1051
+University of Southern Indiana,IN,38.0287,-87.5458
+University of Evansville,IN,37.9691,-87.5562
+Valparaiso University,IN,41.4720,-87.0494
+Butler University,IN,39.8458,-86.1706
+DePauw University,IN,39.6406,-86.8524
+Rose-Hulman Institute of Technology,IN,39.4627,-87.3229
+Goshen College2,IN,41.5835,-85.8402
+Manchester University,IN,40.9996,-85.6706
+Earlham College2,IN,39.8329,-84.9080
+Hanover College2,IN,38.7061,-85.2530
+Wabash College2,IN,40.0577,-86.9004
+Franklin College2,IN,39.4802,-86.0610
+Saint Mary's College2,IN,41.6983,-86.2307
+Anderson University,IN,40.1118,-85.6732
+Taylor University,IN,40.4578,-85.5009
+Huntington University,IN,40.8710,-85.5003
+Grace College2,IN,41.2422,-85.8569
+Bethel University,IN,41.8354,-86.0152
+Trine University,IN,41.6041,-85.0069
+Marian University,IN,39.8475,-86.1664
+Concordia University Ann Arbor,MI,42.2858,-83.7744
+Lawrence Technological University,MI,42.4839,-83.2759
+Saginaw Valley State University,MI,43.5186,-83.9992
+Northern Michigan University,MI,46.5567,-87.3957
+Ferris State University,MI,43.6997,-85.4851
+Grand Valley State University,MI,42.9620,-85.8872
+Lake Superior State University,MI,46.4950,-84.3400
+Alma College2,MI,43.3768,-84.6644
+Hope College2,MI,42.7844,-86.
+Baker University,KS,38.9056,-95.2155
+Benedictine College2,KS,39.7346,-95.1432
+Bethany College2,KS,38.5833,-97.6667
+Bethel College2,KS,38.0000,-97.4833
+Central Christian College2 of Kansas,KS,38.0931,-97.3517
+Emporia State University,KS,38.4069,-96.1889
+Fort Hays State University,KS,38.8681,-99.3242
+Friends University,KS,37.6744,-97.3625
+Kansas State University,KS,39.1834,-96.5815
+MidAmerica Nazarene University,KS,38.9667,-94.6833
+Newman University,KS,37.6444,-97.3500
+Ottawa University,KS,38.6186,-95.2691
+Pittsburg State University,KS,37.4167,-94.7000
+Sterling College2,KS,38.2000,-97.8667
+Tabor College2,KS,38.3500,-97.3500
+Washburn University,KS,39.0350,-95.6917
+Wichita State University,KS,37.7194,-97.2917
+Kentucky State University,KY,38.2100,-84.8700
+Morehead State University,KY,38.1872,-83.4358
+Murray State University,KY,36.6269,-88.3181
+Northern Kentucky University,KY,39.0306,-84.4606
+University of Louisville,KY,38.2178,-85.7600
+Western Kentucky University,KY,36.9856,-86.4556
+Asbury University,KY,37.9167,-84.6000
+Berea College2,KY,37.5700,-84.2889
+Centre College2,KY,37.6469,-84.8217
+Georgetown College2,KY,38.2122,-84.5517
+Kentucky Wesleyan College2,KY,37.7500,-87.1333
+Pikeville University,KY,37.4767,-82.5208
+Spalding University,KY,38.2439,-85.7594
+Transylvania University,KY,38.0458,-84.5000
+Union College2,KY,36.9500,-83.6917
+Bellarmine University,KY,38.2000,-85.6667
+Louisiana Tech University,LA,32.5233,-92.6500
+McNeese State University,LA,30.2000,-93.2167
+Nicholls State University,LA,29.6267,-90.7333
+Northwestern State University,LA,31.7500,-93.0833
+Southeastern Louisiana University,LA,30.5167,-90.4667
+University of Louisiana at Lafayette,LA,30.2167,-92.0167
+University of Louisiana at Monroe,LA,32.5167,-92.0833
+Grambling State University,LA,32.5167,-92.7167
+Southern University and A&M College2,LA,30.5500,-91.1833
+Loyola University New Orleans,LA,29.9333,-90.1167
+Xavier University of Louisiana,LA,29.9500,-90.0833
+Bowdoin College2,ME,43.9000,-69.9667
+Colby College2,ME,44.5500,-69.6333
+Bates College2,ME,44.1000,-70.2000
+University of Southern Maine,ME,43.6833,-70.3333
+Frostburg State University,MD,39.6667,-78.9333
+Salisbury University,MD,38.3333,-75.6000
+Towson University,MD,39.3900,-76.6067
+University of Baltimore,MD,39.3000,-76.6167
+Morgan State University,MD,39.3333,-76.5833
+Loyola University Maryland,MD,39.3400,-76.6100
+Mount St. Mary's University,MD,39.6333,-77.4000
+Goucher College2,MD,39.3700,-76.6100
+Hood College2,MD,39.4000,-77.4167
+McDaniel College2,MD,39.5667,-77.0167
+Washington College2,MD,39.2167,-76.0667
+Wheaton College2,MA,42.0000,-71.1333
+Assumption University,MA,42.2333,-71.8000
+Bentley University,MA,42.3833,-71.2167
+Clark University,MA,42.2407,-71.8088
+College2 of the Holy Cross,MA,42.2667,-71.8000
+Emerson College2,MA,42.3500,-71.0667
+Lasell University,MA,42.3400,-71.2500
+Merrimack College2,MA,42.6167,-71.1667
+Simmons University,MA,42.3400,-71.0900
+Suffolk University,MA,42.3500,-71.0500
+Stonehill College2,MA,42.0667,-71.0500
+Wentworth Institute of Technology,MA,42.3400,-71.0900
+Western New England University,MA,42.0833,-72.5000
+Gordon College2,MA,42.5833,-70.8833
+Regis College2,MA,42.3333,-71.2500
+Springfield College2,MA,42.1000,-72.5833
+Anna Maria College2,MA,42.2500,-71.8667
+Fitchburg State University,MA,42.5833,-71.8000
+Bridgewater State University,MA,41.9667,-70.9667
+Framingham State University,MA,42.2833,-71.4167
+Salem State University,MA,42.5167,-70.8833
+Westfield State University,MA,42.1333,-72.7500
+Massachusetts College2 of Liberal Arts,MA,42.7000,-73.2000
+University of Massachusetts Dartmouth,MA,41.6333,-70.9333
+University of Massachusetts Lowell,MA,42.6500,-71.3167
+Adrian College2,MI,41.8917,-84.0317
+Albion College2,MI,42.2417,-84.7333
+Alma College2,MI,43.3768,-84.6644
+Calvin University,MI,42.9000,-85.6000
+Central Michigan University,MI,43.5855,-84.7709
+Concordia University Ann Arbor,MI,42.2858,-83.7744
+# Cornerstone University,MI,42.9
+Northern Michigan University,MI,46.5567,-87.3957
+Oakland University,MI,42.6625,-83.2255
+Olivet College2,MI,42.4333,-84.9167
+Saginaw Valley State University,MI,43.5186,-83.9992
+Siena Heights University,MI,41.8667,-83.7500
+Spring Arbor University,MI,42.2333,-84.5833
+Wayne State University,MI,42.3575,-83.0620
+Western Michigan University,MI,42.2905,-85.6212
+Bemidji State University,MN,47.4667,-94.8833
+Concordia College2 at Moorhead,MN,46.8781,-96.7972
+Gustavus Adolphus College2,MN,44.2750,-93.9900
+Hamline University,MN,44.9500,-93.1833
+Macalester College2,MN,44.9333,-93.1667
+Minnesota State University Mankato,MN,44.1667,-93.9833
+Saint John's University,MN,45.5700,-94.3967
+Saint Mary's University of Minnesota,MN,44.4333,-91.2500
+St. Olaf College2,MN,44.4500,-93.1667
+University of Minnesota Duluth,MN,46.8167,-92.1000
+Winona State University,MN,44.0500,-91.6833
+Alcorn State University,MS,31.7000,-91.5667
+Delta State University,MS,33.5000,-90.5500
+Jackson State University,MS,32.2833,-90.1833
+Mississippi College2,MS,32.3725,-90.0917
+Mississippi University for Women,MS,33.5000,-88.5167
+Mississippi Valley State University,MS,33.5000,-90.8500
+University of Mississippi,MS,34.3667,-89.5333
+William Carey University,MS,31.3200,-89.2600
+Avila University,MO,38.9000,-94.5667
+Central Methodist University,MO,39.4000,-93.2000
+Drury University,MO,37.2167,-93.2833
+Evangel University,MO,37.1833,-93.3500
+Fontbonne University,MO,38.6667,-90.3500
+Hannibal-LaGrange University,MO,39.7167,-91.8333
+Lindenwood University,MO,38.7667,-90.6167
+Missouri Baptist University,MO,38.6500,-90.4167
+Missouri Southern State University,MO,37.0333,-94.4833
+Missouri State University,MO,37.2000,-93.2833
+Missouri University of Science and Technology,MO,37.9500,-91.7700
+Missouri Western State University,MO,39.7500,-94.8333
+Northwest Missouri State University,MO,40.3500,-94.8833
+Rockhurst University,MO,39.0000,-94.5667
+Southeast Missouri State University,MO,37.3000,-89.5167
+Truman State University,MO,40.1900,-92.5083
+University of Central Missouri,MO,38.7000,-93.7500
+Webster University,MO,38.6000,-90.3500
+Carroll College2,MT,46.5833,-112.0000
+Montana State University,MT,45.6667,-111.0500
+University of Montana,MT,46.8667,-113.9833
+Chadron State College2,NE,42.8167,-103.0000
+Creighton University,NE,41.2500,-95.9500
+Hastings College2,NE,40.5833,-98.3667
+Nebraska Wesleyan University,NE,40.8000,-96.6500
+University of Nebraska at Omaha,NE,41.2667,-96.0000
+University of Nevada Las Vegas,NV,36.0833,-115.1500
+Antioch University New England,NH,42.9333,-72.2833
+Keene State College2,NH,42.9333,-72.2750
+Plymouth State University,NH,43.7333,-71.6833
+Saint Anselm College2,NH,42.9833,-71.5333
+Bloomfield College2,NJ,40.8000,-74.1833
+Caldwell University,NJ,40.8500,-74.2833
+Centenary University,NJ,40.8667,-74.9500
+College2 of Saint Elizabeth,NJ,40.7500,-74.4000
+Drew University,NJ,40.7500,-74.4167
+Fairleigh Dickinson University,NJ,40.8500,-74.0500
+Georgian Court University,NJ,40.0900,-74.0800
+Kean University,NJ,40.7300,-74.2500
+Monmouth University,NJ,40.2667,-74.0167
+Montclair State University,NJ,40.8667,-74.1667
+Ramapo College2 of New Jersey,NJ,41.0833,-74.1500
+Rider University,NJ,40.2833,-74.7000
+Rowan University,NJ,39.7000,-75.1500
+Saint Peter's University,NJ,40.7000,-74.0400
+The College2 of New Jersey,NJ,40.2667,-74.6750
+William Paterson University of New Jersey,NJ,40.9000,-74.1833
+Eastern New Mexico University,NM,34.1833,-103.3333
+New Mexico Highlands University,NM,35.6000,-105.6500
+New Mexico Institute of Mining and Technology,NM,33.9400,-107.2200
+New Mexico State University,NM,32.2833,-106.7500
+St. John's College2,NM,35.7000,-106.5000
+Adelphi University,NY,40.7500,-73.6500
+Alfred University,NY,42.2500,-77.7833
+Bard College2,NY,42.0200,-73.9200
+Barnard College2,NY,40.8000,-73.9600
+Canisius College2,NY,42.9167,-78.8500
+Clarkson University,NY,44.6667,-74.9833
+Colgate University,NY,42.8200,-75.5000
+Daemen College2,NY,42.9667,-78.7833
+Dominican College2,NY,41.0833,-73.9833
+Elmira College2,NY,42.0833,-76.8167
+Hamilton College2,NY,43.1000,-75.4000
+Hartwick College2,NY,42.3000,-75.0500
+Hobart and William Smith Colleges,NY,42.8667,-76.9667
+Hofstra University,NY,40.7000,-73.6333
+Iona College2,NY,40.6333,-73.7833
+Ithaca College2,NY,42.4333,-76.5000
+Le Moyne College2,NY,43.0333,-76.1000
+Long Island University,NY,40.6833,-73.5833
+Manhattan College2,NY,40.8833,-73.9000
+Marist College2,NY,41.7167,-73.9333
+Marymount Manhattan College2,NY,40.7750,-73.9583
+Medaille College2,NY,42.8833,-78.8667
+Mercy College2,NY,40.9200,-73.8900
+Molloy College2,NY,40.6700,-73.6100
+Mount Saint Mary College2,NY,41.5000,-74.0000
+Nazareth College2,NY,43.0800,-77.5600
+The New School,NY,40.7350,-73.9950
+Niagara University,NY,43.1000,-79.0500
+Pace University,NY,40.7100,-74.0000
+Polytechnic Institute of New York University,NY,40.6900,-73.9900
+Pratt Institute,NY,40.6900,-73.9700
+Roberts Wesleyan College2,NY,43.1000,-77.7000
+Rochester Institute of Technology,NY,43.0800,-77.6800
+Russell Sage College2,NY,42.7200,-73.6800
+Saint Bonaventure University,NY,42.0800,-78.4800
+The College2 of Saint Rose,NY,42.6500,-73.7700
+St. John Fisher College2,NY,43.0800,-77.5800
+St. Lawrence University,NY,44.5900,-75.1400
+Sarah Lawrence College2,NY,40.9300,-73.8300
+Siena College2,NY,42.7000,-73.7700
+Skidmore College2,NY,43.0800,-73.7800
+Stony Brook University,NY,40.9100,-73.1200
+SUNY at Albany,NY,42.6800,-73.8200
+SUNY at Binghamton,NY,42.0800,-75.9200
+SUNY at Buffalo,NY,42.9500,-78.7800
+SUNY College2 at Cortland,NY,42.6000,-76.1800
+SUNY College2 at Geneseo,NY,42.8000,-77.8000
+SUNY College2 at New Paltz,NY,41.7500,-74.0800
+SUNY College2 at Oswego,NY,43.4500,-76.5500
+SUNY College2 at Plattsburgh,NY,44.6800,-73.4700
+SUNY College2 of Environmental Science and Forestry,NY,43.0300,-76.1400
+Syracuse University,NY,43.0481,-76.1347
+Union College2,NY,42.8000,-73.9300
+Utica College2,NY,43.1000,-75.2500
+Vassar College2,NY,41.6900,-73.8900
+Wagner College2,NY,40.6000,-74.0900
+Wells College2,NY,42.7300,-76.7000
+Yeshiva University,NY,40.8465,-73.9189
+Appalachian State University,NC,36.2100,-81.6800
+East Carolina University,NC,35.6100,-77.3700
+Elon University,NC,36.1000,-79.5000
+Fayetteville State University,NC,35.0500,-78.8800
+Gardner-Webb University,NC,35.3800,-81.5500
+High Point University,NC,35.9500,-80.0100
+Meredith College2,NC,35.7800,-78.6800
+North Carolina A&T State University,NC,36.0700,-79.7700
+North Carolina Central University,NC,35.9700,-78.9000
+University of North Carolina Wilmington,NC,34.2300,-77.8700
+Western Carolina University,NC,35.3200,-83.1800
+Wingate University,NC,35.1300,-80.5200
+Winston-Salem State University,NC,36.1000,-80.2300
+Bismarck State College2,ND,46.8000,-100.7800
+Dickinson State University,ND,46.8800,-102.7800
+Mayville State University,ND,47.5000,-97.3200
+Minot State University,ND,48.2300,-101.2800
+North Dakota State University,ND,46.8800,-96.8000
+University of North Dakota,ND,47.9200,-97.0800
+Ashland University,OH,40.8600,-82.2800
+Baldwin Wallace University,OH,41.3500,-81.8500
+Bowling Green State University,OH,41.3744,-83.6493
+Capital University,OH,39.9500,-82.9300
+Case Western Reserve University,OH,41.5042,-81.6086
+Cedarville University,OH,39.7500,-83.8800
+University of Akron,OH,41.0800,-81.5200
+University of Cincinnati,OH,39.1327,-84.5165
+University of Dayton,OH,39.7300,-84.1800
+University of Findlay,OH,41.0000,-83.6500
+University of Mount Union,OH,40.8600,-81.0800
+University of Toledo,OH,41.6500,-83.6300
+Wittenberg University,OH,39.9300,-83.8000
+Xavier University,OH,39.1500,-84.4500
+Youngstown State University,OH,41.1000,-80.6500
+East Central University,OK,34.7800,-96.6800
+Northeastern State University,OK,35.9000,-95.3800
+Northwestern Oklahoma State University,OK,36.6700,-98.7300
+Oklahoma Christian University,OK,35.5800,-97.5800
+Oklahoma City University,OK,35.4800,-97.5200
+Oklahoma Panhandle State University,OK,36.5800,-101.4800
+Southeastern Oklahoma State University,OK,34.1700,-96.4000
+Southwestern Oklahoma State University,OK,35.6100,-98.9300
+University of Central Oklahoma,OK,35.6500,-97.4700
+University of Science and Arts of Oklahoma,OK,35.0300,-97.9300
+Western Oregon University,OR,44.9300,-123.2300
+Willamette University,OR,44.9300,-123.0300
+Albright College2,PA,40.3500,-75.9300
+Allegheny College2,PA,41.6300,-80.0000
+Arcadia University,PA,40.1000,-75.1400
+Bloomsburg University of Pennsylvania,PA,40.9900,-76.4600
+Bryn Mawr College2,PA,40.0300,-75.3100
+# Bucknell University,PA,
